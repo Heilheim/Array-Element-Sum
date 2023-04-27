@@ -1,0 +1,1 @@
+# Calculates the sum of the elements in an array
